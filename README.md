@@ -2,4 +2,6 @@
 
 Gemaakt door DahRealPanda | Nathan
 
-Website niet te kopieren
+### Doeleinde
+
+Profielwerkstuk progress voor pws zandvliet college.
